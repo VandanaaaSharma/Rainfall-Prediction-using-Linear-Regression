@@ -1,6 +1,4 @@
 # Rainfall-Prediction-using-Linear-Regression
-# 🌧 Rainfall Prediction using Linear Regression
-
 ## 📌 Overview
 This project predicts **rainfall** using **Linear Regression**, a fundamental machine learning algorithm.  
 It uses a **Kaggle dataset** containing weather data (temperature, humidity, Rainfall, etc.) to predict rainfall values.  
